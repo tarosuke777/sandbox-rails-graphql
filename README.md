@@ -22,10 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-https://qiita.com/sukechannnn/items/b2168d7214992e5d37bf
-https://qiita.com/dkawabata/items/4fd965ee6d7295386a8b
-https://graphql-ruby.org/getting_started
-
-
-https://zenn.dev/igaiga/books/rails-practice-note/viewer/rails_graphql_workshop
