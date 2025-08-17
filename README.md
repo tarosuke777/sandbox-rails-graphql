@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://graphql-ruby.org/getting_started
+
+http://localhost:3000/graphiql
